@@ -1,6 +1,5 @@
 # Site Responsivo Genérico sobre Proxies com Backend
 Um site criado para praticar as habilidades de Node.js e Bootstrap.
-
 ## 🛠️ Construído com
 ### HTML e CSS
 * HTML padrão e CSS para melhorar a responsividade e os detalhes de estilização.
@@ -13,3 +12,5 @@ Um site criado para praticar as habilidades de Node.js e Bootstrap.
 * Tratamento de erros de página não encontrada, redirecionando sempre para a página "paginaInexistente.ejs".
 * Ambos foram desafios iniciais, pois não foram aprendidos no curso que está sendo feito.
 * Também foi possível se familiarizar mais com o uso de views e partials.
+## Previw
+![image](https://user-images.githubusercontent.com/70335640/217381543-43aea390-9f3c-4e58-9c53-a0433f6807a5.png)
